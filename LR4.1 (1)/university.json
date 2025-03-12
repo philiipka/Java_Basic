@@ -1,0 +1,144 @@
+{
+  "faculties": [
+    {
+      "departments": [
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "firstName": "Alice",
+                  "lastName": "Smith",
+                  "middleName": "",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Bob",
+                  "lastName": "Johnson",
+                  "middleName": "",
+                  "sex": "MALE"
+                }
+              ],
+              "name": "SE-101",
+              "head": {
+                "firstName": "Alice",
+                "lastName": "Smith",
+                "middleName": "",
+                "sex": "FEMALE",
+                "type": "Student"
+              }
+            },
+            {
+              "students": [
+                {
+                  "firstName": "Charlie",
+                  "lastName": "Brown",
+                  "middleName": "",
+                  "sex": "MALE"
+                },
+                {
+                  "firstName": "Dave",
+                  "lastName": "Williams",
+                  "middleName": "",
+                  "sex": "MALE"
+                }
+              ],
+              "name": "SE-102",
+              "head": {
+                "firstName": "Charlie",
+                "lastName": "Brown",
+                "middleName": "",
+                "sex": "MALE",
+                "type": "Student"
+              }
+            }
+          ],
+          "name": "Software",
+          "head": {
+            "firstName": "Dr. Alice",
+            "lastName": "Johnson",
+            "middleName": "",
+            "sex": "FEMALE",
+            "type": "Student"
+          }
+        },
+        {
+          "groups": [
+            {
+              "students": [
+                {
+                  "firstName": "Eve",
+                  "lastName": "Davis",
+                  "middleName": "",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Frank",
+                  "lastName": "Miller",
+                  "middleName": "",
+                  "sex": "MALE"
+                }
+              ],
+              "name": "EE-201",
+              "head": {
+                "firstName": "Eve",
+                "lastName": "Davis",
+                "middleName": "",
+                "sex": "FEMALE",
+                "type": "Student"
+              }
+            },
+            {
+              "students": [
+                {
+                  "firstName": "Grace",
+                  "lastName": "Moore",
+                  "middleName": "",
+                  "sex": "FEMALE"
+                },
+                {
+                  "firstName": "Henry",
+                  "lastName": "Taylor",
+                  "middleName": "",
+                  "sex": "MALE"
+                }
+              ],
+              "name": "EE-202",
+              "head": {
+                "firstName": "Grace",
+                "lastName": "Moore",
+                "middleName": "",
+                "sex": "FEMALE",
+                "type": "Student"
+              }
+            }
+          ],
+          "name": "Electronics",
+          "head": {
+            "firstName": "Dr. Robert",
+            "lastName": "Wilson",
+            "middleName": "",
+            "sex": "MALE",
+            "type": "Student"
+          }
+        }
+      ],
+      "name": "Engineering",
+      "head": {
+        "firstName": "Dr. Smith",
+        "lastName": "Brown",
+        "middleName": "",
+        "sex": "MALE",
+        "type": "Student"
+      }
+    }
+  ],
+  "name": "Test University",
+  "head": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "middleName": "",
+    "sex": "MALE",
+    "type": "Student"
+  }
+}
